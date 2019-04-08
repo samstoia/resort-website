@@ -2,7 +2,7 @@
 a  less simple webpage about a resort with pages for accommodations, activities, travel arrangements, pictures, etc, contact information
 
 ## Setup/Installation Requirements
-using command line, clone github repo by typing: git clone https://github.com/samstoia/my-first-webpage
+using command line, clone github repo by typing: git clone https://github.com/samstoia/resort-website
 find the file on your computer
 open the desired html file in your browser.
 ## Known Bugs
